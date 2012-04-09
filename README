@@ -1,0 +1,6 @@
+Interphone
+
+version 0.1:
+support g711 ,speex,g722
+g722 block is set as 160 ,would update to 320 in next version
+there is some backup in space
